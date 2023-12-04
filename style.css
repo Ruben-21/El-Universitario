@@ -3,9 +3,11 @@ body {
     width: 1326px;
     height: 1300px;
     text-aling: center;
+    
 }
 
 #body {
+    width: 99%;
     aling-text: center;
 }
 
