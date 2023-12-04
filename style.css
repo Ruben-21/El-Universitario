@@ -5,6 +5,10 @@ body {
     text-aling: center;
 }
 
+#body {
+    aling-text: center;
+}
+
 #logotipo {
     text-align: center;
 }
