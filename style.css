@@ -3,7 +3,15 @@ body {
     width: 1326px;
     height: 1300px;
     text-aling: center;
-    
+}
+
+@media (min-width: 991px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
 }
 
 #body {
